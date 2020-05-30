@@ -17,5 +17,4 @@ The program will be tested on four test cases, which we will call T1…T4. For e
 ### Run the program
 ```
 g++ -std=c++11 mainCrystal.cpp
-
 ```
