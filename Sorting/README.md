@@ -15,5 +15,7 @@ The program will be tested on four test cases, which we will call T1…T4. For e
 •	T4 will contain approximately (within 1 percent of) 1,000,000 data objects. Each data object will store the same last name and the same first name (both selected randomly, but only once), and a randomly generated social security number (ssns are guaranteed to be unique within T4).
 
 ### Run the program
-``g++ -std=c++11 mainCrystal.cpp`
+```
+g++ -std=c++11 mainCrystal.cpp
+
 ```
